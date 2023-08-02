@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/car_showroom_assignment/static/css/main.3a36fefd.css",
+    "main.js": "/car_showroom_assignment/static/js/main.0741d104.js",
+    "static/js/787.a4df50f5.chunk.js": "/car_showroom_assignment/static/js/787.a4df50f5.chunk.js",
+    "index.html": "/car_showroom_assignment/index.html",
+    "main.3a36fefd.css.map": "/car_showroom_assignment/static/css/main.3a36fefd.css.map",
+    "main.0741d104.js.map": "/car_showroom_assignment/static/js/main.0741d104.js.map",
+    "787.a4df50f5.chunk.js.map": "/car_showroom_assignment/static/js/787.a4df50f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a36fefd.css",
+    "static/js/main.0741d104.js"
+  ]
+}
